@@ -10,8 +10,7 @@
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://scontent.fpoa5-1.fna.fbcdn.net/v/t1.6435-9/144659833_3692937774167875_4134294566654823850_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=174925&_nc_eui2=AeFbTpPInrom-skZam27sHPzYQYI7Hs9huxhBgjsez2G7Fl0JXny-_cLCWHB2agxBEFMQcUx6PoVMMg9_ReNR0QB&_nc_ohc=-3wH53r-fKYAX-_1-1O&_nc_ht=scontent.fpoa5-1.fna&oh=71fed483984b009d4cd2a511af9c6e8a&oe=617F16D8">
-</div>
+  
   
   ##
  
